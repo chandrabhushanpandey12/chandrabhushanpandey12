@@ -2,71 +2,101 @@
 
 <div align="center">
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="70" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Chandrabhushan+%F0%9F%91%8B;I+build+AI+Chatbots+%26+Voice+Assistants+%F0%9F%A4%96;I+automate+businesses+with+n8n+%E2%9A%A1;Full-Stack+Developer+%7C+Django+%7C+PHP+%7C+React+%F0%9F%92%BB;Founder+of+NextGenCoderHub+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Chandrabhushan;I+build+AI+Chatbots+and+Voice+Assistants;I+automate+businesses+with+n8n;Full-Stack+Developer+%7C+Django+%7C+PHP+%7C+React;Founder+of+NextGenCoderHub" alt="Typing SVG" />
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chandrabhushanpandey12&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/chandrabhushanpandey12?style=for-the-badge&logo=github&color=6a11cb)
-![Stars](https://img.shields.io/github/stars/chandrabhushanpandey12?style=for-the-badge&logo=github&color=ff8c00)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-bhushan-pandey-280651348)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrabhushan.pandey9129@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Chandrabhushan Pandey
-role: AI Automation Engineer & Full-Stack Developer
-founder: NextGenCoderHub
-location: India 🇮🇳
-focus: [AI Chatbots, Voice Assistants, n8n Workflows, Web Apps]
-open_to: Freelance projects & collaborations
-```
-
-- 🤖 I build **AI chatbots, voice assistants & n8n automations** that save businesses time
-- 📺 Built **social media & YouTube automation** pipelines
-- 🌐 Full-Stack apps with **Django, PHP, React & Node.js**
-- 🚀 Turning boring manual work into smart AI workflows
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge)
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,php,java,html,css,bootstrap,mongodb,mysql,git,github,docker&perline=8" />
+<img src="https://komarev.com/ghpvc/?username=chandrabhushanpandey12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/chandrabhushanpandey12?style=for-the-badge&logo=github&color=6a11cb" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/chandra-bhushan-pandey-280651348"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandrabhushan.pandey9129@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="35" /> About Me
 
-| | |
-|:---|:---|
-| 🤖 **AI Chatbots & Voice Assistants** | Conversational automation for customer support and interaction |
-| ⚡ **n8n Workflow Automation** | End-to-end business automation with AI models and API integrations |
-| 📺 **Content Automation** | Social media scheduling and YouTube publishing pipelines |
-| 🌐 **Full-Stack Web Apps** | E-commerce, management systems and business websites |
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="22" /> I build **AI chatbots, voice assistants & n8n automations** that save businesses time
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fa/512.gif" width="22" /> Built **social media & YouTube automation** pipelines
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="22" /> Full-Stack apps with **Django, PHP, React & Node.js**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22" /> Founder of **NextGenCoderHub**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="22" /> Open for **freelance projects & collaborations**
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="35" /> Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Chatbots-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Voice_Assistants-0E75B6?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" style="background:white;border-radius:8px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
+
+</div>
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="35" /> What I Build
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="60" /><br/>
+<b>AI Chatbots & Voice Assistants</b><br/>
+Conversational automation for support
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="60" /><br/>
+<b>n8n Automation</b><br/>
+AI + API workflows for business
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fa/512.gif" width="60" /><br/>
+<b>Content Automation</b><br/>
+Social media & YouTube pipelines
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="60" /><br/>
+<b>Full-Stack Web Apps</b><br/>
+E-commerce & management systems
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cc/512.gif" width="35" /> Featured Projects
 
 <table>
 <tr>
@@ -74,9 +104,6 @@ open_to: Freelance projects & collaborations
 
 ### 🛒 Django E-commerce Store
 Full-featured e-commerce app with user authentication, cart system and order management.
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [🔗 View Project](https://github.com/chandrabhushanpandey12/django-ecommerce-store)
 
@@ -86,9 +113,6 @@ Full-featured e-commerce app with user authentication, cart system and order man
 ### 🏫 PHP School Management System
 Full-stack system with admin panel, admission system and dynamic gallery.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 [🔗 View Project](https://github.com/chandrabhushanpandey12/php-school-management-system-)
 
 </td>
@@ -97,40 +121,11 @@ Full-stack system with admin panel, admission system and dynamic gallery.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chandrabhushanpandey12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhushanpandey12&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="50" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=chandrabhushanpandey12&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrabhushanpandey12&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=6a11cb&point=ffffff" width="100%" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandrabhushanpandey12&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-<div align="center">
-
-### 💼 Have an automation or web project in mind? Let's build it together! 🤝
+### Have an automation or web project in mind? Let's build it together!
 
 </div>
 
