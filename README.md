@@ -1,48 +1,102 @@
-<img src="assets/header.svg" width="100%" alt="Chandrabhushan Pandey"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Chandrabhushan%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%"/>
 
 <div align="center">
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="70" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="70" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=I+build+AI+Chatbots+%26+Voice+Assistants;I+automate+businesses+with+n8n;Full-Stack+Developer+%7C+Django+%7C+PHP+%7C+React;Founder+of+NextGenCoderHub" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Chandrabhushan;I+build+AI+Chatbots+and+Voice+Assistants;I+automate+businesses+with+n8n;Full-Stack+Developer+%7C+Django+%7C+PHP+%7C+React;Founder+of+NextGenCoderHub" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chandrabhushanpandey12&label=Profile%20Views&color=b967ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/chandrabhushanpandey12?style=for-the-badge&logo=github&color=00f7ff&labelColor=0b0620" />
+<img src="https://komarev.com/ghpvc/?username=chandrabhushanpandey12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/chandrabhushanpandey12?style=for-the-badge&logo=github&color=6a11cb" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/chandra-bhushan-pandey-280651348"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:chandrabhushan.pandey9129@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:chandrabhushan.pandey9129@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-<br/>
+---
 
-## ⚡ What I Build
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="35" /> About Me
 
-<img src="assets/services.svg" width="100%" alt="Services"/>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="22" /> I build **AI chatbots, voice assistants & n8n automations** that save businesses time
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fa/512.gif" width="22" /> Built **social media & YouTube automation** pipelines
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="22" /> Full-Stack apps with **Django, PHP, React & Node.js**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22" /> Founder of **NextGenCoderHub**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="22" /> Open for **freelance projects & collaborations**
 
-<br/>
+---
 
-## 🧠 Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="35" /> Tech Stack
 
-<img src="assets/skills.svg" width="100%" alt="Skills"/>
+<div align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Chatbots-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Voice_Assistants-0E75B6?style=for-the-badge" />
 
-## 🚀 About Me
+<br/><br/>
 
-- 🤖 I build **AI chatbots, voice assistants & n8n automations** that save businesses time
-- 📺 Built **social media & YouTube automation** pipelines
-- 🌐 Full-Stack apps with **Django, PHP, React & Node.js**
-- 🏢 Founder of **NextGenCoderHub**
-- 🤝 Open for **freelance projects & collaborations**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" style="background:white;border-radius:8px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
 
-<br/>
+</div>
 
-## 📌 Featured Projects
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="35" /> What I Build
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="60" /><br/>
+<b>AI Chatbots & Voice Assistants</b><br/>
+Conversational automation for support
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="60" /><br/>
+<b>n8n Automation</b><br/>
+AI + API workflows for business
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4fa/512.gif" width="60" /><br/>
+<b>Content Automation</b><br/>
+Social media & YouTube pipelines
+</td>
+<td align="center" width="25%">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="60" /><br/>
+<b>Full-Stack Web Apps</b><br/>
+E-commerce & management systems
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cc/512.gif" width="35" /> Featured Projects
 
 <table>
 <tr>
@@ -50,8 +104,6 @@
 
 ### 🛒 Django E-commerce Store
 Full-featured e-commerce app with user authentication, cart system and order management.
-
-`Django` `Python` `SQLite`
 
 [🔗 View Project](https://github.com/chandrabhushanpandey12/django-ecommerce-store)
 
@@ -61,37 +113,20 @@ Full-featured e-commerce app with user authentication, cart system and order man
 ### 🏫 PHP School Management System
 Full-stack system with admin panel, admission system and dynamic gallery.
 
-`PHP` `MySQL` `Admin Panel`
-
 [🔗 View Project](https://github.com/chandrabhushanpandey12/php-school-management-system-)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandrabhushanpandey12/chandrabhushanpandey12/output/snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/chandrabhushanpandey12/chandrabhushanpandey12/output/snake.svg" width="100%">
-</picture>
-</div>
-
-<br/>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/chandrabhushanpandey12/chandrabhushanpandey12/output/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-### 💼 Have an automation or web project in mind? Let's build it together! 🤝
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="50" />
+
+### Have an automation or web project in mind? Let's build it together!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
